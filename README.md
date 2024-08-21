@@ -18,11 +18,11 @@ Create a Streamlit chat interface integrating Google's advanced language model, 
 
 ### Setup
 1. **Clone the repository:**
-   ```bash
+```bash
 git clone https://github.com/RohitSiva2004/RadicalAI-Gemini_Explorer
 ```
 2. **Navigate to the project directory:**
-   ```bash
+```bash
 cd gemini-explorer
 ```
 
