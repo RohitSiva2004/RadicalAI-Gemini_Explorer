@@ -42,24 +42,24 @@ gcloud auth application-default login
 ### **5. Set Up a Virtual Environment**
 It is always recommended to create a virtual environment to test your Python projects. This helps keep your project dependencies isolated. If you have venv installed, create a new environment with:.
 ```bash
-python -m venv venv
+python -m venv .venv
 ```
 
 Activate the virtual environment:
 
 Windows (PowerShell):
 ```bash
-.\venv\Scripts\Activate.ps1
+.venv\Scripts\Activate.ps1
 ```
 
 Windows (CMD):
 ```bash
-.\venv\Scripts\activate
+.venv\Scripts\activate
 ```
 
 macOS/Linux:
 ```bash
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 ## Usage
