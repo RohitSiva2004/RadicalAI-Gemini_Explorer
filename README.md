@@ -86,6 +86,8 @@ Here's a sample interaction with the Gemini Explorer chatbot:
 User: Hello, who are you?
 Bot: Hello! I am ReX, an assistant powered by Google Gemini. How can I assist you today? 😊
 ```
+![image](https://github.com/user-attachments/assets/b7a66ff7-ce0c-4c19-b691-0bb01868136b)
+
 ## How the Program Works
 
 ### 1. Vertex AI Initialization
