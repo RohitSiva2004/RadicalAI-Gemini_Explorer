@@ -3,7 +3,7 @@ import streamlit as st
 from vertexai.preview import generative_models
 from vertexai.preview.generative_models import GenerativeModel, Part, Content, ChatSession
 
-project = "gemini-explorer-432016"
+project = "gemini-explorer-IDNUM"
 #initialize vertexai with google cloud project
 vertexai.init(project = project)
 #create config with presets entered such as temp=0.4
